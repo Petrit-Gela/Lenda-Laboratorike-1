@@ -1,0 +1,426 @@
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.exe
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.deps.json
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.runtimeconfig.json
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.pdb
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.AssemblyInfo.cs
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\staticwebassets\HealthCare.StaticWebAssets.Manifest.cache
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\staticwebassets\HealthCare.StaticWebAssets.xml
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\scopedcss\bundle\HealthCare.styles.css
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.RazorTargetAssemblyInfo.cache
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.csproj.CopyComplete
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.pdb
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.genruntimeconfig.cache
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.exe
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.deps.json
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.runtimeconfig.json
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.runtimeconfig.dev.json
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.pdb
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.csprojAssemblyReference.cache
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.AssemblyInfoInputs.cache
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.AssemblyInfo.cs
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.csproj.CoreCompileInputs.cache
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\staticwebassets\HealthCare.StaticWebAssets.Manifest.cache
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\staticwebassets\HealthCare.StaticWebAssets.xml
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\scopedcss\bundle\HealthCare.styles.css
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.RazorTargetAssemblyInfo.cache
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.csproj.CopyComplete
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.dll
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.pdb
+C:\Users\oriku\Desktop\HealthCare-System\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.genruntimeconfig.cache
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.exe
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.deps.json
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.runtimeconfig.json
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.runtimeconfig.dev.json
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.pdb
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.AssemblyInfo.cs
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\staticwebassets\HealthCare.StaticWebAssets.Manifest.cache
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\staticwebassets\HealthCare.StaticWebAssets.xml
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\scopedcss\bundle\HealthCare.styles.css
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.RazorTargetAssemblyInfo.cache
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.csproj.CopyComplete
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.dll
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.pdb
+C:\Users\Asus\Documents\GitHub\HealthCare-System\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.genruntimeconfig.cache
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\Desktop\healthcare\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.StaticWebAssets.xml
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.exe
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.deps.json
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.runtimeconfig.json
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.runtimeconfig.dev.json
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\HealthCare.pdb
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.csproj.AssemblyReference.cache
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.AssemblyInfoInputs.cache
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.AssemblyInfo.cs
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.csproj.CoreCompileInputs.cache
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.MvcApplicationPartsAssemblyInfo.cache
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\staticwebassets\HealthCare.StaticWebAssets.Manifest.cache
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.RazorTargetAssemblyInfo.cache
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.csproj.CopyComplete
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.dll
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.pdb
+C:\Fakullteti\LAB Course 2\Projekti ne Lend Laboratorike 2\healthcare (1)\healthcare\healthcare\HealthCare\HealthCare\obj\Debug\netcoreapp3.1\HealthCare.genruntimeconfig.cache
