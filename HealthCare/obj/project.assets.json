@@ -9148,11 +9148,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Fakullteti\\LAB Course 1\\LAB Course 1 (Petriti 2022)\\Projekti ne Lab Course 1\\Health Care MGM\\HealthCare\\HealthCare.csproj",
+      "projectUniqueName": "C:\\Fakullteti\\LAB Course 1\\LAB Course 1 (Petriti 2022)\\Projekti ne Lab Course 1\\Health Care MGM\\Lenda-Laboratorike-1\\HealthCare\\HealthCare.csproj",
       "projectName": "HealthCare",
-      "projectPath": "C:\\Fakullteti\\LAB Course 1\\LAB Course 1 (Petriti 2022)\\Projekti ne Lab Course 1\\Health Care MGM\\HealthCare\\HealthCare.csproj",
+      "projectPath": "C:\\Fakullteti\\LAB Course 1\\LAB Course 1 (Petriti 2022)\\Projekti ne Lab Course 1\\Health Care MGM\\Lenda-Laboratorike-1\\HealthCare\\HealthCare.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Fakullteti\\LAB Course 1\\LAB Course 1 (Petriti 2022)\\Projekti ne Lab Course 1\\Health Care MGM\\HealthCare\\obj\\",
+      "outputPath": "C:\\Fakullteti\\LAB Course 1\\LAB Course 1 (Petriti 2022)\\Projekti ne Lab Course 1\\Health Care MGM\\Lenda-Laboratorike-1\\HealthCare\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

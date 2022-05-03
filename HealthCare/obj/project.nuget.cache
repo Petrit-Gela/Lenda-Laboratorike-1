@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qtYtpelxQ/RzgSswaDHWLpsdb1nc97DyV1+EFdxeQw+4chbVlF7vCMgDZky80MvGY1BD8N4GvhBev+ru9z64BA==",
+  "dgSpecHash": "smnrIS7oJh9wCkkQ1tHCJp3eTbqijIzhbhHNIoaU05K22XXt3vzEMcCSfjhA/bLbAf7U+c/VifQ/l62R59iwvQ==",
   "success": true,
-  "projectFilePath": "C:\\Fakullteti\\LAB Course 1\\LAB Course 1 (Petriti 2022)\\Projekti ne Lab Course 1\\Health Care MGM\\HealthCare\\HealthCare.csproj",
+  "projectFilePath": "C:\\Fakullteti\\LAB Course 1\\LAB Course 1 (Petriti 2022)\\Projekti ne Lab Course 1\\Health Care MGM\\Lenda-Laboratorike-1\\HealthCare\\HealthCare.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
